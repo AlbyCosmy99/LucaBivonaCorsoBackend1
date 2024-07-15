@@ -1,0 +1,83 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "published_year": 1960,
+      "ISBN": "978-0-06-112008-4",
+      "summary": "A novel set in the American South during the 1930s, focusing on themes of racial injustice and moral growth."
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "published_year": 1949,
+      "ISBN": "978-0-452-28423-4",
+      "summary": "A dystopian novel set in a totalitarian society ruled by the Party and Big Brother."
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "published_year": 1813,
+      "ISBN": "978-0-14-143951-8",
+      "summary": "A classic novel that explores the issues of marriage, class, and morality in early 19th century England."
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "published_year": 1925,
+      "ISBN": "978-0-7432-7356-5",
+      "summary": "A novel that critiques the American Dream through the story of Jay Gatsby and his unrequited love for Daisy Buchanan."
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "published_year": 1851,
+      "ISBN": "978-0-14-243724-7",
+      "summary": "An epic tale of the obsessive quest of Captain Ahab for revenge on Moby Dick, the white whale."
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "published_year": 1951,
+      "ISBN": "978-0-316-76948-0",
+      "summary": "A story about teenage alienation and angst, narrated by the disenchanted Holden Caulfield."
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "published_year": 1869,
+      "ISBN": "978-0-14-303999-0",
+      "summary": "A sweeping novel that intertwines the lives of private and public individuals during the time of the Napoleonic wars."
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "published_year": 1937,
+      "ISBN": "978-0-618-00221-3",
+      "summary": "The prelude to The Lord of the Rings, following the journey of Bilbo Baggins as he goes on an unexpected adventure."
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "published_year": 1866,
+      "ISBN": "978-0-14-305814-4",
+      "summary": "A psychological drama exploring the moral dilemmas faced by the impoverished student Raskolnikov after he commits a murder."
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "published_year": 1988,
+      "ISBN": "978-0-06-231500-7",
+      "summary": "A philosophical book about a young shepherd named Santiago who goes on a journey to discover his personal legend."
+    }
+  ]
+  
